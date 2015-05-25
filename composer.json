@@ -1,5 +1,5 @@
 {
-	"name": "philippfrenzel/yii2fullcalendar",
+	"name": "kilasbff/yii2fullcalendar",
 	"description": "Yii2 fullcalendar Widgets",
 	"keywords": ["yii2", "fullcalendar"],
 	"homepage": "http://www.frenzel.net/",
@@ -14,14 +14,14 @@
 		}
 	],
 	"support": {
-		"source": "https://github.com/philippfrenzel/yii2fullcalendar"
+		"source": "https://github.com/kilasbff/yii2fullcalendar"
 	},
 	"minimum-stability": "stable",
 	"require": {
 		"php": ">=5.4.0",
 		"yiisoft/yii2" : "*",
 		"yiisoft/yii2-jui": "*",
-		"bower-asset/fullcalendar" : "2.2.* | 2.1.* | 2.0.*"
+		"bower-asset/dtmonterrey-fullcalendar" : "1.0.*"
 	},
 	"require-dev": {
 		"codeception/codeception": "*"
